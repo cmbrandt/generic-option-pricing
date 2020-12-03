@@ -1,6 +1,6 @@
 # Generic Option Pricing
 
-This was a graduate school research project exploring different approaching for designing a Monte Carlo option pricing engine, developed between 2014 and 2015. My advisor for this work was Dr. Andrew Sutton, author and original implementer of the [C++ Concepts Technical Specification] (http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4377.pdf).
+This was a graduate school research project exploring different approaching for designing a Monte Carlo option pricing engine, developed between 2014 and 2015. My advisor for this work was Dr. Andrew Sutton, author and original implementer of the [C++ Concepts Technical Specification](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4377.pdf).
 
 The basis for this work was adapted from the book [C++ Design Patterns and Derivatives Pricing 2nd Edition](https://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628) by Mark Joshi, where the author developed an option pricing framework based on an object-oriented (OO) design.  Our aim was to translate this first OO design to a generic programming design, then incorporate the (circa 2015) experimental language feature Concepts into the framework.
 
